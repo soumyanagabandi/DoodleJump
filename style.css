@@ -1,0 +1,28 @@
+.grid{
+	width:400px;
+	height:600px;
+	background-color:white;
+	border:5px skyblue solid;
+	border-radius:15px;
+	position:relative;
+	font-size:200px;
+	text-align:center;
+	box-shadow:5px  6px 5px skyblue;
+	align-items:center;
+	box-sizing:border-box;
+	margin-left:35%;
+}
+.doodler
+{
+	width:60px;
+	height:85px;
+	background-color:#00BFFF;
+	position:absolute;
+}
+.platform
+{
+	width:85px;
+	height:15px;
+	background-color:#FF00FF;
+	position:absolute;
+}
